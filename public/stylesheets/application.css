@@ -45,6 +45,10 @@ h1#page_heading
 	color: #000 !important;
 }
 
+h1#page_heading a img{
+	border: none;  
+}
+
 h2
 {
   font-size: 1.4em;
