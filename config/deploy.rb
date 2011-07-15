@@ -1,5 +1,5 @@
 set :application, "Cauei labs"
-set :repository,  "git@github.com:brunofrank/enki.git"
+set :repository,  "git://github.com/brunofrank/enki.git"
 
 set :scm, :git
 
